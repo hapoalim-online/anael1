@@ -1,7 +1,7 @@
 
 const CACHE_NAME = 'anael1-cache-v1';
 const urlsToCache = [
-  '/MIX2222.html',
+  '/index.html',
   '/manifest.json',
   '/icon-192.png',
   '/icon-512.png',
