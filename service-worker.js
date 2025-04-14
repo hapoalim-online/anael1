@@ -5,7 +5,7 @@ const urlsToCache = [
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
-  '/css/all.min.css',
+  './css/all.min.css',
   './sounds/CARD.ogg',
   './sounds/no.ogg',
   './sounds/slot.ogg',
