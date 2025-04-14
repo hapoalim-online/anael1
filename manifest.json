@@ -2,7 +2,7 @@
   "name": "Anael1",
   "short_name": "Anael1",
   "description": "Learning English And Math",
-  "start_url": "/anael1-pwa/index.html",
+  "start_url": "./anael1-pwa/index.html",
   "display": "standalone",
   "background_color": "#050d1d",
   "theme_color": "#00ffe7",
